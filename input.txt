@@ -1,0 +1,12 @@
+{BROADCAST} ●  New Update Out! Enjoy ● INSTAGRAM: @foo & @bar
+                            ╔═╗╔═╗╔═╗╔╗ ╔═╗╦═╗
+                            ╠╣ ║ ║║ ║╠╩╗╠═╣╠╦╝
+                            ╚  ╚═╝╚═╝╚═╝╩ ╩╩╚═
+                     ══╦═════════════════════════════╦══
+                ╔══════╩═════════════════════════════╩══════╗
+                ║   Welcome to the start screen of Botnet   ║
+                ║     Type [help] to view all commands      ║
+                ╚═══════════════════════════════════════════╝
+
+╔[foo@Botnet]
+╚════:~#
